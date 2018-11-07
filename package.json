@@ -1,10 +1,10 @@
 {
   "name": "ember-cli-matchmedia-polyfill",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember cli addon that includes a polyfill for matchMedia if needed.",
   "keywords": [
     "ember-addon",
-    "closest",
+    "matchmedia",
     "polyfill"
   ],
   "repository": "https://github.com/miguelcobain/ember-cli-matchmedia-polyfill",
