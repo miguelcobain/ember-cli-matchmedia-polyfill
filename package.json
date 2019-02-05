@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
-    "broccoli-asset-rev": "^2.7.0",
+    "broccoli-asset-rev": "^3.0.0",
     "chai": "^4.2.0",
     "ember-ajax": "^4.0.2",
     "ember-cli": "~3.5.0",
