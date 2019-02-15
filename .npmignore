@@ -21,6 +21,7 @@
 /testem.js
 /tests/
 /test/
+/test/
 /yarn.lock
 .gitkeep
 
