@@ -23,7 +23,7 @@
     "test:precook": "node node_modules/ember-cli-addon-tests/scripts/precook-node-modules.js"
   },
   "dependencies": {
-    "ember-cli-polyfill-importer": "0.0.1",
+    "ember-cli-polyfill-importer": "0.0.4",
     "matchmedia-polyfill": "^0.3.1"
   },
   "devDependencies": {
